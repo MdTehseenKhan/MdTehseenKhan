@@ -1,6 +1,14 @@
-# 💫 About Me:
-🚀 Enthusiastic Junior Web Developer<br>🔮 Eager to contribute to team success through hard work, attention to detail and excellent organizational skills.<br>💡 Clear understanding of Task and training in Skill.<br>📝 Motivated to learn, grow and excel in Industry.<br>🔎 To seek and maintain part-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.<br>💻 Hardworking and passionate job seeker with strong organizational skills<br>📢 Eager to secure an entry-level Junior Web Developer position.<br>🦄 Ready to help team achieve company goals.
+[![MasterHead](https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/images.jpeg)](#)
 
+# Hi, I'm Md. Tehseen Khan
+
+<p align="left">I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.</p>
+
+<img width="100" align="right" src="https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/MdTehseenKhan.jpg" />
+
+
+## 💫 About Me:
+🚀 Enthusiastic Junior Web Developer.<br>🔮 Eager to contribute to team success through hard work, attention to detail and excellent organizational skills.<br>💡 Clear understanding of Task and training in Skill.<br>📝 Motivated to learn, grow and excel in Industry.<br>🔎 To seek and maintain part-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.<br>💻 Hardworking and passionate job seeker with strong organizational skills.<br>📢 Eager to secure an entry-level Junior Web Developer position.<br>🦄 Ready to help team achieve company goals.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadtehseen.khan.986) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MdTehseenKhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tehseen-khan-159825172) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_tehseen_khan) 
