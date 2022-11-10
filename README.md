@@ -2,9 +2,9 @@
 
 # Hi, I'm Md. Tehseen Khan
 
-<p align="left">I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.</p>
-
 <img width="100" align="right" src="https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/MdTehseenKhan.jpg" />
+
+I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.
 
 
 ## 💫 About Me:
