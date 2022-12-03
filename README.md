@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/images.jpeg)](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AEE1BF2&width=435&lines=Asslam+o+alaekum!+;Welcome+to+my+profile;Hope+you+are+doing+well;Let's+get+connected...%F0%9F%9A%80)](#)
+[![Hey Dear!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AEE1BF2&width=435&lines=Asslam+o+alaekum!+;Welcome+to+my+profile;Hope+you+are+doing+well;Let's+get+connected...%F0%9F%9A%80)](#)
 
 # Hi, I'm Md. Tehseen Khan
 
