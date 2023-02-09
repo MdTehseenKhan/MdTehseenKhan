@@ -19,9 +19,8 @@ I am an enthusiastic web developer based in Karachi, Pakistan, with a rich exper
 - Ready to help team achieve company goals. 🦄
 
 ## 🌐 SOCIALS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MdTehseenKhan) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MdTehseenKhan) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tehseen-khan-159825172) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_tehseen_khan) 
 
 ## 💻 TECH STACK:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
