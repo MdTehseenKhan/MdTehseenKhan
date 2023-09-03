@@ -1,62 +1,112 @@
-[![MasterHead](https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/images.jpeg)](#)
+![MasterHead](/images/cover.jpeg)
 
 [![Hey Dear!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AEE1BF2&width=435&lines=Asslam+o+alaekum!+;Welcome+to+my+profile;Hope+you+are+doing+well;Let's+get+connected...%F0%9F%9A%80)](#)
 
-# Hi, I'm Tehseen
+<center>
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0" alt="Profile Views" />
+  </a>
+</center>
 
-<img width="100" style="border-radius:50%;" align="right" src="https://github.com/MdTehseenKhan/MdTehseenKhan/blob/main/MdTehseenKhan.png" />
+###
 
-I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.
+<h1 align="center">Hey 👋 I'm Tehseen</h1>
 
-## 💫 ABOUT ME:
-- Enthusiastic Junior Web Developer. 🚀<br/>
-- Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. 🔮<br>
-- Clear understanding of Task and training in Skill. 💡<br>
-- Motivated to learn, grow and excel in Industry. 📝<br>
-- To seek and maintain part-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills. 🔎<br>
-- Hardworking and passionate job seeker with strong organizational skills. 💻<br>
-- Eager to secure an entry-level Junior Web Developer position. 📢<br>
-- Ready to help team achieve company goals. 🦄
+<img 
+  width="100" 
+  align="right" 
+  style="border-radius:50%;"
+  src="./images/MdTehseenKhan.png" 
+/>
 
-## 🌐 SOCIALS:
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MdTehseenKhan) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tehseen-khan-159825172) 
+### I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.
 
-## 💻 TECH STACK:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<br/>
+## 👩‍💻 About me
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-<br/>
+- 🚀 Enthusiastic Junior Web Developer.
+- 🔮 Eager to contribute to team success through hard work, attention to detail and excellent organizational skills.
+- 💡 Clear understanding of Task and training in Skill.
+- 📝 Motivated to learn, grow and excel in Industry.
+- 🔎 To seek and maintain part-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.
+- 💻 Hardworking and passionate job seeker with strong organizational skills.
+- 📢 Eager to secure an entry-level Junior Web Developer position.
+- 🦄 Ready to help team achieve company goals.
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-<br/>
+## 🌐 Connect with me
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-<br/>
+  <a href="https://www.linkedin.com/in/md-tehseen-khan/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      width="52" 
+      height="40" 
+      alt="linkedin logo"  
+    />
+  </a>
+  <a href="https://leetcode.com/MdTehseenKhan/" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      width="40" 
+      height="52" 
+      alt="leetcode logo" 
+    />
+  </a>
+  <a href="mailto:contact.tehseenkhan@gmail.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+      width="52" 
+      height="40" 
+      alt="gmail logo"  
+    />
+  </a>
 
-## 📊 GITHUB STATS:
+## 🛠 Language and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+## 🔥 My Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=MdTehseenKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdTehseenKhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTehseenKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GITHUB TROPHIES
+
 ![](https://github-profile-trophy.vercel.app/?username=MdTehseenKhan&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ RANDOM DEV QUOTE
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 😂 RANDOM DEV MEME
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- <img src="https://raw.githubusercontent.com/MdTehseenKhan/MdTehseenKhan/output/snake.svg" alt="Snake animation" /> -->
