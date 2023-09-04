@@ -101,11 +101,11 @@ _**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich e
 
 </div>
 
-## 🏆 GITHUB TROPHIES
+## 🏆 Github Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=MdTehseenKhan&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ RANDOM DEV QUOTE
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
