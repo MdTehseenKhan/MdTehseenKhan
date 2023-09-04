@@ -2,24 +2,17 @@
 
 [![Hey Dear!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AEE1BF2&width=435&lines=Asslam+o+alaekum!+;Welcome+to+my+profile;Hope+you+are+doing+well;Let's+get+connected...%F0%9F%9A%80)](#)
 
-<center>
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0" alt="Profile Views" />
-  </a>
-</center>
-
-###
-
 <div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Hey 👋 I'm Tehseen
 
-_**I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design.**_
+_**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design."**_
 
 <img 
-  height="150" 
-  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" 
-  align="center" 
+  height="200" 
+  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
   />
 
 </div>
@@ -100,9 +93,13 @@ _**I am an enthusiastic web developer based in Karachi, Pakistan, with a rich ex
 
 ## 🔥 My Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=MdTehseenKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdTehseenKhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTehseenKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ## 🏆 GITHUB TROPHIES
 
