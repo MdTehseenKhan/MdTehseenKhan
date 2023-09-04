@@ -57,7 +57,7 @@ _**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich e
 
 ## 🛠 Language and Tools
 
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
@@ -109,4 +109,4 @@ _**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich e
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- <img src="https://raw.githubusercontent.com/MdTehseenKhan/MdTehseenKhan/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/MdTehseenKhan/MdTehseenKhan/output/snake.svg" alt="Snake animation" />
