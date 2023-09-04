@@ -10,7 +10,7 @@
 
 ###
 
-<center>
+<div align="center">
 
 # Hey 👋 I'm Tehseen
 
@@ -22,7 +22,7 @@ _**I am an enthusiastic web developer based in Karachi, Pakistan, with a rich ex
   align="center" 
   />
 
-</center>
+</div>
 
 ## 👩‍💻 About me
 
