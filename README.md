@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # Hey 👋 I'm Tehseen
 
 _**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich experience in website & product design."**_
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=MdTehseenKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -67,7 +67,7 @@ _**"I am an enthusiastic web developer based in Karachi, Pakistan, with a rich e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
